@@ -29,9 +29,9 @@ para el desarrollo de juegos 2d y aprendizaje basico para programar en el lengua
 
 
 <h2 align='center'>o CREDITOS o</h2>
-Universidad Interamericana para el Desarrollo
-Cande Ricardo Leyva Hernandez ID:00312949
-Carrera: Programacion Orientada a Objetos
-Profesor: Kevin Armando Luciano Garcia.
-09/AGOSTO/2021
-Sexto Cuatrimestre
+<h4 align='center'>Universidad Interamericana para el Desarrollo</h4>
+<h4 align='center'>Cande Ricardo Leyva Hernandez ID:00312949</h4>
+<h4 align='center'>Carrera: Programacion Orientada a Objetos</h4>
+<h4 align='center'>Profesor: Kevin Armando Luciano Garcia</h4>
+<h4 align='center'>09/AGOSTO/2021</h4>
+<h4 align='center'>Sexto Cuatrimestre</h4>
