@@ -5,9 +5,9 @@
 
 Cande Ricardo Leyva Hernandez 00312949
 
-<h3 align='center'>o OBJETIVO GENERAL o</h3>
+<h2 align='center'>o OBJETIVO GENERAL o</h2>
 El objetivo principal de este proyecto es conocer y aprender todas las fases del desarrollo
 de un videojuego 2d. Todo ello, a través de la herramienta de desarrollo Greenfoot, ampliamente utilizada 
 para el desarrollo de juegos 2d y aprendizaje basico para programar en el lenguaje java.
 
-<h3 align='center'>o EXPLICACION DE LAS REGLAS Y NIVELES DEL JUEGO o</H3>
+<h2 align='center'>o EXPLICACION DE LAS REGLAS Y NIVELES DEL JUEGO o</h2>
