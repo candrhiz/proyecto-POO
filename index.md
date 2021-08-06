@@ -11,3 +11,27 @@ de un videojuego 2d. Todo ello, a través de la herramienta de desarrollo Greenf
 para el desarrollo de juegos 2d y aprendizaje basico para programar en el lenguaje java.
 
 <h2 align='center'>o EXPLICACION DE LAS REGLAS Y NIVELES DEL JUEGO o</h2>
+
+
+<h2 align='center'>o IMAGENES Y EXPLICACION DE LOS ELEMETOS DEL JUEGO o</h2>
+
+
+<h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
+
+
+<h2 align='center'>o ENLACE AL DIAGRAMA DE CLASES UML o</h2>
+
+
+<h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
+
+
+<h2 align='center'>o ENLACE AL PROYECTO PUBLICADO EN GREENFOOT o</h2>
+
+
+<h2 align='center'>o CREDITOS o</h2>
+Universidad Interamericana para el Desarrollo
+Cande Ricardo Leyva Hernandez ID:00312949
+Carrera: Programacion Orientada a Objetos
+Profesor: Kevin Armando Luciano Garcia.
+09/AGOSTO/2021
+Sexto Cuatrimestre
