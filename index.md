@@ -1,4 +1,4 @@
-<h1 algin='center'>Proyecto Final de Programacion Orientada a objetos de la carrera Ingeniria en Sistemas Computacionales</h1>
+<h1 algin='center'>Proyecto Final de POO de la carrera Ingeniria en Sistemas Computacionales</h1>
 
 <h2 aligin='center'>Cuatrimestre Mayo - Agosto 2021</h2>
 
