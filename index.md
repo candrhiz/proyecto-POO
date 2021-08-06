@@ -4,5 +4,5 @@
 
 You can use the [editor on GitHub](https://github.com/candrhiz/proyecto-POO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-<h1>OBJETIVO GENERAL</h1>
+<h3>OBJETIVO GENERAL</h3>
 
