@@ -16,7 +16,7 @@ Es un juego basado en la maxima experincia del Grand Premio, que tiene como obje
 El juego empieza con el carro de McLaren en la pista del Hipodromo de Mexico, va avanzando a una velocidad promedio y va pasando a los contrincantes de Ferrari, es aleatorio el como vendran los obstaculos, pasas los obstaculos y va subiendo tu puntuacion, conforme va subiendo tu puntuacion sube el nivel de dificultad, no tiene un limite como tal, es algo facil, pero entretenedor. ¡Eres tú contra tu rival con el simple objetivo de ser el primero en llegar a la meta!
 
 <h2 align='center'>o IMAGENES Y EXPLICACION DE LOS ELEMETOS DEL JUEGO o</h2>
-
+<img src="mclaren.png">
 
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
 
