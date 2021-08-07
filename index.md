@@ -11,7 +11,9 @@ de un videojuego 2d. Todo ello, a través de la herramienta de desarrollo Greenf
 para el desarrollo de juegos 2d y aprendizaje basico para programar en el lenguaje de java y facilitar el conocimiento.
 
 <h2 align='center'>o EXPLICACION DE LAS REGLAS Y NIVELES DEL JUEGO o</h2>
+Es un juego basado en la maxima experincia del Grand Premio, que tiene como objetivo ganar la carrera, en este caso se centra en esquivar los adversarios que son de la escuderia Ferrari y el personaje y piloto principal de la escuderia es Candrhiz y lleva al hombro la escuderia McLaren.
 
+El juego empieza con el carro de McLaren en la pista del Hipodromo de Mexico, va avanzando a una velocidad promedio y va pasando a los contrincantes de Ferrari, es aleatorio el como vendran los obstaculos, pasas los obstaculos y va subiendo tu puntuacion, conforme va subiendo tu puntuacion sube el nivel de dificultad, no tiene un limite como tal, es algo facil, pero entretenedor. ¡Eres tú contra tu rival con el simple objetivo de ser el primero en llegar a la meta!
 
 <h2 align='center'>o IMAGENES Y EXPLICACION DE LOS ELEMETOS DEL JUEGO o</h2>
 
