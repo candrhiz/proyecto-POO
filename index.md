@@ -17,6 +17,13 @@ El juego empieza con el carro de McLaren en la pista del Hipodromo de Mexico, va
 
 <h2 align='center'>o IMAGENES Y EXPLICACION DE LOS ELEMETOS DEL JUEGO o</h2>
 [![pista.png](https://i.postimg.cc/j5s4JZfc/pista.png)](https://postimg.cc/R3DHk1XJ)
+La pista es el escenario simple y basico del juego es el mundo.
+
+[![mclaren.png](https://i.postimg.cc/ZRVFPpFS/mclaren.png)](https://postimg.cc/S2YMkXvT)
+El carro de McLaren es el actor principal del juego, es el que se encarga de esquivar los adversarios de Ferrari y asi aumentar la puntuacion y asi aumentar del nivel 1 hasta donde uno aguante y ser entrenedor.
+
+[![ferrari.png](https://i.postimg.cc/nLK1z6XM/ferrari.png)](https://postimg.cc/NyMXCC7w)
+El carro de Ferrari es el segundo actor y si se puede decir enemigo, sale aleatoriaente de posicion, no se sabe cual sera su inicial y se tratara de esquivar.
 
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
 
