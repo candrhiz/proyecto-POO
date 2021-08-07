@@ -26,13 +26,13 @@ para el desarrollo de juegos 2d y aprendizaje basico para programar en el lengua
 
 
 <h2 align='center'>o ENLACE AL PROYECTO PUBLICADO EN GREENFOOT o</h2>
-<center><a href="https://www.greenfoot.org/scenarios/28391">LINK AL PROYECTO: F1_ESAY</a></center>
+<a href="https://www.greenfoot.org/scenarios/28391">LINK AL PROYECTO: F1_ESAY</a>
 
 
 <h2 align='center'>o CREDITOS o</h2>
-Universidad Interamericana para el Desarrollo
-Cande Ricardo Leyva Hernandez ID:00312949
-Carrera: Programacion Orientada a Objetos
-Profesor: Kevin Armando Luciano Garcia
-09/AGOSTO/2021
-Sexto Cuatrimestre
+Universidad Interamericana para el Desarrollo,
+Cande Ricardo Leyva Hernandez, ID:00312949,
+Carrera: Programacion Orientada a Objetos,
+Profesor: Kevin Armando Luciano Garcia,
+AGOSTO/2021,
+Sexto Cuatrimestre.
