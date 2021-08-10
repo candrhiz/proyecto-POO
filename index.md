@@ -29,7 +29,7 @@ El carro de McLaren es el actor principal del juego, es el que se encarga de esq
 El carro de Ferrari es el segundo actor y si se puede decir enemigo, sale aleatoriaente de posicion, no se sabe cual sera su inicial y se tratara de esquivar.
 
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
-
+<a href="https://github.com/candrhiz/proyecto-POO.git">LINK PARA DESCARGAR EL CODIGO</a>
 
 <h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
 Diagrama de caso de uso de F1_EASY
