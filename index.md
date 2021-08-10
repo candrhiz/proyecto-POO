@@ -31,7 +31,7 @@ El carro de Ferrari es el segundo actor y si se puede decir enemigo, sale aleato
 <h2 align='center'>o ENLACE PARA DESCARGAR EL ARCHIVO EJECUTABLE o</h2>
 
 
-<h2 align='center'>o ENLACE AL DIAGRAMA DE CLASES UML o</h2>
+<h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
 
 
 <h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
