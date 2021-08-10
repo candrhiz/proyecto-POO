@@ -32,6 +32,13 @@ El carro de Ferrari es el segundo actor y si se puede decir enemigo, sale aleato
 
 
 <h2 align='center'>o DIAGRAMAS DE CLASES UML o</h2>
+Diagrama de caso de uso de F1_EASY
+
+[![casos-de-uso-f1-easy.png](https://i.postimg.cc/PrGHHsWZ/casos-de-uso-f1-easy.png)](https://postimg.cc/7bNd1RQY)
+
+Diagrama de flujo de F1_EASY
+
+[![diagrama-flujo-f1-easy.png](https://i.postimg.cc/Cxm9zWqc/diagrama-flujo-f1-easy.png)](https://postimg.cc/tsnBcvD6)
 
 
 <h2 align='center'>o ENLACE AL VIDEO DE YOUTUBE o</h2>
