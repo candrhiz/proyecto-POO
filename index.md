@@ -55,4 +55,4 @@ Carrera: Programacion Orientada a Objetos,
 Profesor: Kevin Armando Luciano Garcia,
 AGOSTO/2021,
 Sexto Cuatrimestre.
-Pagina y de la cual me ayude para la elaboracion del codigo: https://www.youtube.com/watch?v=0htCuJPhSVU
+Pagina y video de la cual me ayude para la elaboracion del codigo: https://www.youtube.com/watch?v=0htCuJPhSVU
